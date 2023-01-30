@@ -1,0 +1,6 @@
+CREATE TABLE recipes (
+  id INT NOT NULL AUTO_INCREMENT,
+  title VARCHAR(255) NOT NULL,
+  ingredients TEXT NOT NULL,
+  instructions TEXT NOT NULL,
+  image VARCHAR(255),

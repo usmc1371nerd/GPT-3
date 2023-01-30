@@ -1,0 +1,20 @@
+<link rel="stylesheet" href="form.css">
+<link rel="stylesheet" href="recipe.css">
+<div class="recipe">
+    <h1>Recipe Title</h1>
+    <img src="recipe-image.jpg">
+    <div class="ingredients">
+      <h2>Ingredients:</h2>
+
+      <form action="save-recipe.php" method="post">
+        <input type="text" name="title" placeholder="Recipe Title">
+        <textarea name="ingredients" placeholder="Ingredients"></textarea>
+        <textarea name="instructions" placeholder="Instructions"></textarea>
+        <input type="file" name="image">
+        <input type="submit" value="Save Recipe">
+        <form action="share-recipe.php" method="post">
+            <input type="submit" value="Share Recipe">
+          </form>
+      </form>
+
+     

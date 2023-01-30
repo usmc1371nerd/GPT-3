@@ -1,0 +1,37 @@
+Scenario:
+Creating a Recipe App
+
+Parameters:
+- The app must allow users to search for recipes by ingredients and cuisine type. 
+- The app must allow users to create and save their own recipes. 
+- The app must allow users to share recipes with friends.
+
+Task to Complete:
+The user must be able to search for recipes, create and save their own recipes, and share recipes with friends.
+
+Title:
+Cook Up: The Ultimate Recipe App
+
+About Info:
+Cook Up is the ultimate recipe app for anyone who loves to cook and explore new dishes. With our easy-to-use search bar, you can quickly find recipes based on ingredients and cuisine type. You can also create and save your own recipes, and share them with your friends. So come join the Cook Up community and start cooking today!
+
+asked GPT-3 to start the project from scenario
+
+Step 1: Set up the project folder and create the basic HTML/CSS structure
+Step 2: Design the user interface and create a UX flow
+Step 3: Create the search bar and set up the search parameters
+Step 4: Design and build the user profile page
+Step 5: Design and build the recipe page
+Step 6: Add the ability to create and save recipes
+Step 7: Add the ability to share recipes with friends
+Step 8: Test the app and make any necessary changes
+Step 9: Finalize the project and deploy the app
+
+Step 1: Set up the project folder and create the basic HTML/CSS structure
+
+- Create a folder for the project.
+- Set up a basic HTML page structure.
+- Create a basic CSS stylesheet.
+- Link the HTML page to the CSS stylesheet.
+- Set up the navigation and header.
+- Add placeholder content for the other sections of the page.
